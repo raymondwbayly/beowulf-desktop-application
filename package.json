@@ -1,0 +1,22 @@
+{
+  "name": "beowulf-desktop-application",
+  "version": "1.0.0",
+  "description": "This is the desktop application prototype",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raymondwbayly/beowulf-desktop-application.git"
+  },
+  "author": "Raymond Bayly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raymondwbayly/beowulf-desktop-application/issues"
+  },
+  "homepage": "https://github.com/raymondwbayly/beowulf-desktop-application#readme",
+  "devDependencies": {
+    "electron": "^8.2.3"
+  }
+}
